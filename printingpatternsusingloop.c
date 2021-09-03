@@ -34,8 +34,6 @@ int main(int argc, char const *argv[])
             printf("%d ",a[i][j]);
         }
         printf("\n");
-        
     }
-    
     return 0;
 }
